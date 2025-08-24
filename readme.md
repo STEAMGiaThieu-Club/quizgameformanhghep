@@ -1,0 +1,1 @@
+bat len dung thi neu no bao loi thi co danh ti thoi gian cai thu vien nha ae khong biet sao khong tao file executable cho de dung duoc:(
